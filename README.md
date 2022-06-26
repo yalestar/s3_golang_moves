@@ -1,7 +1,7 @@
-✅ get docker-compose to run S3
-✅ create and list a bucket via CLI?
-✅ create and list bucket via Go 
-✅ add a file to localstack S3
+✅ get docker-compose to run S3 
+✅ create and list a bucket via CLI?  
+✅ create and list bucket via Go  
+✅ add a file to localstack S3 
 ✅ get that file from localstack S3
 
 Run the create and list with that interfaced version  
